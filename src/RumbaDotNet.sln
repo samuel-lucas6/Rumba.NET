@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumbaDotNet", "RumbaDotNet\RumbaDotNet.csproj", "{C91FAD2F-AE9E-40F1-B38D-4C0E527E0518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumbaDotNet.Tests", "RumbaDotNet.Tests\RumbaDotNet.Tests.csproj", "{8E1EE58D-5ED0-4750-B807-BAEA557437AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91FAD2F-AE9E-40F1-B38D-4C0E527E0518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91FAD2F-AE9E-40F1-B38D-4C0E527E0518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91FAD2F-AE9E-40F1-B38D-4C0E527E0518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91FAD2F-AE9E-40F1-B38D-4C0E527E0518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1EE58D-5ED0-4750-B807-BAEA557437AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1EE58D-5ED0-4750-B807-BAEA557437AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1EE58D-5ED0-4750-B807-BAEA557437AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1EE58D-5ED0-4750-B807-BAEA557437AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
